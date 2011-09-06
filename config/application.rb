@@ -44,5 +44,6 @@ module Issue2802
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+    config.i18n.default_locale = :fr
   end
 end
